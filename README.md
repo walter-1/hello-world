@@ -10,7 +10,7 @@ working as an Escalation engineer in Microsoft Windows EMEA Support, the collect
 - new central Windwos DIAG: https://github.com/CSS-Windows/WindowsDiag/tree/master/ALL
 - SDN Diagnostics: https://github.com/Microsoft/SDN/tree/master/Diagnostics
 
-  new repo: https://github.com/microsoft/Get-NetView. 
+  new repo: https://github.com/microsoft/Get-NetView
 - One Data collector: https://microsoft.sharepoint.com/teams/CSS_Diagnostics/Pages/Library.aspx
 
 - Download Visual Studio Code: https://code.visualstudio.com/Download
